@@ -113,7 +113,22 @@ header {
 }
 
 .section-a {
-  background-image: url("../img/Homepage-Model-S-Desktop-LHD.jpeg");
+  background-image: url("../img/model-s.jpeg");
+}
+.section-b {
+  background-image: url("../img/model-y.jpeg");
+}
+.section-c {
+  background-image: url("../img/model-x.jpeg");
+}
+.section-d {
+  background-image: url("../img/model-3.jpeg");
+}
+.section-e {
+  background-image: url("../img/solar-and-powerwall.jpeg");
+}
+.section-f {
+  background-image: url("../img/accessories.jpeg");
 }
 
 /*# sourceMappingURL=style.css.map */

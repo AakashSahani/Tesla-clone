@@ -66,6 +66,23 @@ header {
 }
 
 // Section A
-.section-a {
-	background-image: url('../img/Homepage-Model-S-Desktop-LHD.jpeg');
+.section {
+	&-a {
+		background-image: url('../img/model-s.jpeg');
+	}
+	&-b {
+		background-image: url('../img/model-y.jpeg');
+	}
+	&-c {
+		background-image: url('../img/model-x.jpeg');
+	}
+	&-d {
+		background-image: url('../img/model-3.jpeg');
+	}
+	&-e {
+		background-image: url('../img/solar-and-powerwall.jpeg');
+	}
+	&-f {
+		background-image: url('../img/accessories.jpeg');
+	}
 }
