@@ -7,6 +7,16 @@ a {
 	color: black;
 }
 
+h1 {
+	font-size: 2.5rem;
+}
+
+p {
+	font-weight: 400;
+	margin-top: 0.5rem;
+	font-size: 0.9rem;
+}
+
 .btn {
 	width: 260px;
 	height: 40px;
@@ -50,4 +60,5 @@ section {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	width: 100%;
 }

@@ -50,7 +50,8 @@ header {
 		align-items: center;
 		text-align: center;
 		& li {
-			margin: 0 1rem;
+			// margin: 0 1rem;
+			padding: 0 1rem;
 		}
 	}
 }
@@ -63,6 +64,16 @@ header {
 			margin-right: 1rem;
 		}
 	}
+}
+
+.text p span {
+	border-bottom: 1px solid black;
+	transition: border-bottom 0.2s ease-in-out;
+}
+
+.text p span:hover {
+	border-bottom: 2px solid black;
+	cursor: pointer;
 }
 
 // Section A
